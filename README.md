@@ -1,2 +1,2 @@
 # PowerBI-Portfolio
-A collection of PowerBI reports &amp; dashboards
+A personal collection of Power BI reports and dashboards designed for reference and to demonstrate best practices in business intelligence
